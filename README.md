@@ -1,4 +1,4 @@
-# Lendo-PDF-com-Python
+# Lendo PDF com Python
 
 A leitura de texto de PDFs é uma tarefa comum em diversas aplicações, como extração de informações, análise de texto e pesquisa. No entanto, pode ser uma tarefa desafiadora, pois os PDFs podem ser complexos e conter uma variedade de formatos de texto.
 
