@@ -11,4 +11,4 @@ Os scripts são claros e concisos, e são fáceis de entender e usar. Eles são 
 <p align="left">  
   <a href="https://www.python.org/" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="Git" height="25" /> </a> 
-  <a href="https://colab.google/" target="_blank"> <img alt="Google-Colab" src="https://tethys.inmet.gov.br/static/water_data_explorer/images/colab_icon.png" /> </a> 
+  <a href="https://colab.google/" target="_blank"> <img alt="Google-Colab" src="https://tethys.inmet.gov.br/static/water_data_explorer/images/colab_icon.png" height="25" /> </a> 
