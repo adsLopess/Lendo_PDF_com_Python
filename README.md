@@ -10,5 +10,4 @@ Os scripts são claros e concisos, e são fáceis de entender e usar. Eles são 
 
 <p align="left">  
   <a href="https://www.python.org/" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="Git" height="25" /> </a> 
-  <a href="https://colab.google/" target="_blank"> <img alt="Google-Colab" src="[https://tethys.inmet.gov.br/static/water_data_explorer/images/colab_icon.png](https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png)https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png" titlee="Colab" height="25" /> </a> 
+  <a href="https://colab.google/" target="_blank"> <img alt="Google-Colab" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMm08zwpp6ouJqURbS0vXrcQO9yEjQg451o9hw7J9wNjHu92XrqJr5wTj3GTGmrJ_EzIY&usqp=CAU" title="Colab" height="25" /> </a> 
