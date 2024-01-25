@@ -12,4 +12,4 @@ Os scripts são claros e concisos, e são fáceis de entender e usar. Eles são 
 
 <p align="left">  
   <a href="https://www.python.org/" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" title="Python" /> </a> 
-  <a href="https://colab.google/" target="_blank"> <img alt="Google-Colab" src="https://miro.medium.com/v2/resize:fit:1358/1*8N7xbq6ahVvWkEq_S5EhMA.jpeg" title="Colab" height="35" width="55" /> </a> 
+  <a href="https://colab.google/" target="_blank"> <img alt="Google-Colab" src="https://miro.medium.com/v2/resize:fit:1358/1*8N7xbq6ahVvWkEq_S5EhMA.jpeg" title="Colab" height="30" width="75" /> </a> 
