@@ -11,5 +11,5 @@ Os scripts são claros e concisos, e são fáceis de entender e usar. Eles são 
 ### 🛠 Linguagens & Ferramentas Utilizadas:
 
 <p align="left">  
-  <a href="https://www.python.org/" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> </a> 
-  <a href="https://colab.google/" target="_blank"> <img alt="Google-Colab" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMm08zwpp6ouJqURbS0vXrcQO9yEjQg451o9hw7J9wNjHu92XrqJr5wTj3GTGmrJ_EzIY&usqp=CAU" title="Colab" height="35" /> </a> 
+  <a href="https://www.python.org/" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" title="Python" /> </a> 
+  <a href="https://colab.google/" target="_blank"> <img alt="Google-Colab" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMm08zwpp6ouJqURbS0vXrcQO9yEjQg451o9hw7J9wNjHu92XrqJr5wTj3GTGmrJ_EzIY&usqp=CAU](https://media.licdn.com/dms/image/D5612AQG-ODBfKSUwzA/article-cover_image-shrink_600_2000/0/1685166380265?e=2147483647&v=beta&t=Xc6omBn2S6Y8X1C-FBQRGXCHfZoY58-jrM5fn1Jg_HU)https://media.licdn.com/dms/image/D5612AQG-ODBfKSUwzA/article-cover_image-shrink_600_2000/0/1685166380265?e=2147483647&v=beta&t=Xc6omBn2S6Y8X1C-FBQRGXCHfZoY58-jrM5fn1Jg_HU" title="Colab" height="35" /> </a> 
